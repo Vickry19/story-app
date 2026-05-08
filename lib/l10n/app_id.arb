@@ -1,0 +1,20 @@
+{
+  "@@locale": "id",
+
+  "appName": "Aplikasi Story",
+  "login": "Masuk",
+  "register": "Daftar",
+  "email": "Email",
+  "password": "Password",
+  "name": "Nama",
+  "description": "Deskripsi",
+  "uploadStory": "Upload Story",
+  "pickLocation": "Pilih Lokasi",
+  "myLocation": "Lokasi Saya",
+  "logout": "Keluar",
+  "stories": "Stories",
+  "addStory": "Tambah Story",
+  "emptyStory": "Belum ada story",
+  "welcomeBack": "Selamat Datang 👋",
+  "createAccount": "Buat Akun ✨"
+}

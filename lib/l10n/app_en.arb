@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+
+  "appName": "Story App",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "description": "Description",
+  "uploadStory": "Upload Story",
+  "pickLocation": "Pick Location",
+  "myLocation": "My Location",
+  "logout": "Logout",
+  "stories": "Stories",
+  "addStory": "Add Story",
+  "emptyStory": "No stories yet",
+  "welcomeBack": "Welcome Back 👋",
+  "createAccount": "Create Account ✨"
+}
